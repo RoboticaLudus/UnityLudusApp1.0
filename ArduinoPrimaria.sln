@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F2C09319-B7FE-CA5D-326A-16F38F04235C}") = "ArduinoPrimaria", "Assembly-CSharp-firstpass.csproj", "{263AAF78-EB5C-C869-DD4F-4E69DBBBA88A}"
+EndProject
+Project("{F2C09319-B7FE-CA5D-326A-16F38F04235C}") = "ArduinoPrimaria", "Assembly-CSharp.csproj", "{4BC8A826-2717-60B3-8F9C-AAA130015AAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{263AAF78-EB5C-C869-DD4F-4E69DBBBA88A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{263AAF78-EB5C-C869-DD4F-4E69DBBBA88A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{263AAF78-EB5C-C869-DD4F-4E69DBBBA88A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{263AAF78-EB5C-C869-DD4F-4E69DBBBA88A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BC8A826-2717-60B3-8F9C-AAA130015AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BC8A826-2717-60B3-8F9C-AAA130015AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BC8A826-2717-60B3-8F9C-AAA130015AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BC8A826-2717-60B3-8F9C-AAA130015AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

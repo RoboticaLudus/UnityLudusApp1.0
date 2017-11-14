@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Funcion.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Menus.cs" Line="18" Column="22" />
+      <File FileName="Assets\Scripts\ListarOredenes.cs" Line="96" Column="5" />
+      <File FileName="Assets\Plugins\ClientSocket.cs" Line="33" Column="3" />
+      <File FileName="Assets\Plugins\Menu.cs" Line="52" Column="24" />
+      <File FileName="Assets\Scripts\Funcion.cs" Line="36" Column="62" />
+      <File FileName="Assets\Scripts\Orden.cs" Line="1" Column="1" />
+      <File FileName="Assets\SimpleDragAndDrop\Scripts\DragAndDropCell.cs" Line="1" Column="1" />
+      <File FileName="Assets\SimpleDragAndDrop\Scripts\DragAndDropItem.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DragDrop.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
